@@ -1,0 +1,14 @@
+D:\New folder\asm11\asm11\bin\Debug\net8.0\asm11.exe
+D:\New folder\asm11\asm11\bin\Debug\net8.0\asm11.deps.json
+D:\New folder\asm11\asm11\bin\Debug\net8.0\asm11.runtimeconfig.json
+D:\New folder\asm11\asm11\bin\Debug\net8.0\asm11.dll
+D:\New folder\asm11\asm11\bin\Debug\net8.0\asm11.pdb
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.AssemblyInfoInputs.cache
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.AssemblyInfo.cs
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.csproj.CoreCompileInputs.cache
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.dll
+D:\New folder\asm11\asm11\obj\Debug\net8.0\refint\asm11.dll
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.pdb
+D:\New folder\asm11\asm11\obj\Debug\net8.0\asm11.genruntimeconfig.cache
+D:\New folder\asm11\asm11\obj\Debug\net8.0\ref\asm11.dll
